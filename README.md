@@ -9,3 +9,5 @@ Uiren is an educational mobile application designed to help users learn the Kaza
 - **Database:** MongoDB
 
 The application focuses on creating an intuitive learning experience while providing scalable and efficient system architecture.
+ # VIDEO
+ https://youtu.be/NPkBqdhzUcI?si=X1QSzd3aRVmg4Gjr
